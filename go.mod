@@ -1,4 +1,4 @@
-module testGin
+module learnGin
 
 go 1.17
 

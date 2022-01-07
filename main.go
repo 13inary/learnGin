@@ -1,14 +1,14 @@
 package main
 
 import (
+	"learnGin/app/check"
+	"learnGin/app/html"
+	"learnGin/app/login"
+	"learnGin/app/parMidWar"
+	"learnGin/app/parameter"
+	"learnGin/app/token"
+	"learnGin/routers"
 	"log"
-	"testGin/app/check"
-	"testGin/app/html"
-	"testGin/app/login"
-	"testGin/app/parMidWar"
-	"testGin/app/parameter"
-	"testGin/app/token"
-	"testGin/routers"
 )
 
 func main() {

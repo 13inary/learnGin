@@ -2,10 +2,10 @@ package routers
 
 import (
 	"io"
+	"learnGin/middleWare"
+	"learnGin/validators"
 	"log"
 	"os"
-	"testGin/middleWare"
-	"testGin/validators"
 
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"

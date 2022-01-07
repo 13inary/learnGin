@@ -1,7 +1,7 @@
 package login
 
 import (
-	"testGin/middleWare"
+	"learnGin/middleWare"
 
 	"github.com/gin-gonic/gin"
 )
